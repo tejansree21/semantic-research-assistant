@@ -1,0 +1,5 @@
+Artificial intelligence has transformed multiple industries in recent years. Machine learning, a subset of AI, enables computers to learn from data without being explicitly programmed. Deep learning, which uses neural networks with many layers, has achieved breakthrough results in image recognition, natural language processing, and speech recognition.
+
+The transformer architecture, introduced in 2017 by Vaswani et al., revolutionized NLP. It uses self-attention mechanisms to process sequences in parallel rather than sequentially. This led to models like BERT, GPT, and T5 which set new benchmarks across many language tasks.
+
+Retrieval Augmented Generation (RAG) combines the strengths of retrieval systems with generative models. Instead of relying solely on what the model memorized during training, RAG retrieves relevant documents and uses them as context for generating answers. This reduces hallucination and keeps responses grounded in actual sources.
